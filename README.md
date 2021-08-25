@@ -1,5 +1,5 @@
 <h2> Hi, I'm Fara Akhatova!
-<img align='right' src="https://giphy.com/embed/cst5AXzPxRLyIwMNsV" width="230">
+<img align='right' src="https://giphy.com/embed/cst5AXzPxRLyIwMNsV" width="230"/>
 
 
 
