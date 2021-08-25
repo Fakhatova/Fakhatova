@@ -1,6 +1,6 @@
 <h2> Hi, I'm Fara Akhatova!
 <hr />
-<iframe src="https://giphy.com/embed/LMcB8XospGZO8UQq87" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pluralsight-girl-woman-pluralsight-LMcB8XospGZO8UQq87">via GIPHY</a></p>
+<&lt;iframe src="https://giphy.com/embed/LMcB8XospGZO8UQq87" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></&lt;iframe><p><a href="https://giphy.com/gifs/Pluralsight-girl-woman-pluralsight-LMcB8XospGZO8UQq87">via GIPHY</a></p>
 
 
 
