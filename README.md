@@ -4,7 +4,7 @@
 
 
 
-![Alt Text](<iframe src="https://giphy.com/embed/cst5AXzPxRLyIwMNsV" width="230" height="300" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>)
+<iframe src="https://giphy.com/embed/cst5AXzPxRLyIwMNsV" width="230" height="300" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 
 <!-- ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...   -->
