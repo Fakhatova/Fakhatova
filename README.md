@@ -3,7 +3,7 @@
 
 
 
-[![Linkedin: Farangiz Akhatova](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fara-akhatova/)](www.linkedin.com/in/fara-akhatova)
+[![Linkedin: Farangiz Akhatova]](www.linkedin.com/in/fara-akhatova)
 [![GitHub Fakhatova](https://github.com/Fakhatova)
 
 
