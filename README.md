@@ -9,12 +9,13 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 
-```javascript
+``` Front End
 const fara = {
   pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, Redux, Node],
-  architecture: [],
+  experienses: [Javascript, Typescript, HTML, CSS, Express, Node, Mocha, Chai, Cypress],
+  frameworks: [React],
+  tools:[Miro, GitHub, Google Sheets, Notion]
+  
   }
 ```
 
