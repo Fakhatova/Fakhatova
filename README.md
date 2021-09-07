@@ -22,7 +22,7 @@ const fara = {
 
 ### Stats & Tech Stack:
 <div>
- <img align='left' src="https://github-readme-stats.vercel.app/api?username=rachaelcarroll&hide=stars&show_icons=true&theme=cobalt">
+ <img align='left' src="https://github-readme-stats.vercel.app/api?username=Fakhatova&hide=stars&show_icons=true&theme=cobalt">
  <div align="right">  
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat-square" alt="React Badge">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square" alt="JavaScript Badge">
