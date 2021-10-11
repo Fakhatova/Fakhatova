@@ -11,7 +11,7 @@ const fara = {
   experienses: [Javascript, Typescript, HTML, CSS, Express, Node, Mocha, Chai, Cypress, React Query],
   frameworks: [React],
   tools:[Miro, GitHub, Google Sheets, Notion]
-  
+  learning: Redux Toolkit
   }
 ```
   ## Stats & Technologies
