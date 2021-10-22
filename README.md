@@ -8,9 +8,9 @@
 ``` Front End
 const fara = {
   pronouns: "she" | "her",
-  experienses: [Javascript, Typescript, HTML, CSS, Express, Node, Mocha, Chai, Cypress, React Query],
+  experienses: [Javascript, Typescript, HTML, CSS, Express, Node, Mocha, Chai, Cypress, React Query, Travic CI, Circle CI],
   frameworks: [React],
-  tools:[Miro, GitHub, Google Sheets, Notion]
+  tools:[Miro, GitHub, Google Sheets, Notion, GitHub Organization]
   learning: Redux Toolkit
   }
 ```
